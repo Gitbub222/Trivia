@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="question">Who was president of the United States when bombs were dropped on Hiroshima and Nagasaki?</string>
+    <string name="answer">Harry S. Truman</string>
+</resources>
